@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [this github.](this github.)
 
-- 📝 I store and update my knowledge on [https://dev.to/neverloveddev](https://dev.to/neverloveddev)
-
 - 💬I like talking about **Kotlin, .NET, Android, Python**
 
 - 📫 You can contact me at **djordje.andjic99@outlook.com**
